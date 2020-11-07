@@ -18,7 +18,7 @@ Ainda, tem-se o seguinte esquema dos relacionamentos entre as tabelas destes ban
 
 ## Ferramentas
 
-Para facilitar o aprendizado, vamos utilizar o SGBD SQLite3. Além de também fazer uso do [SQLite Studio](https://sqlitestudio.pl/).
+Para facilitar o aprendizado, vamos utilizar o SGBD SQLite3. Nossa interface de programação será o Visual Studio Code, isso mesmo! Aproveite para baixá-lo [aqui](https://code.visualstudio.com/).
 
 ## Cronograma
 

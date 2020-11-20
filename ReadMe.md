@@ -24,8 +24,8 @@ Para facilitar o aprendizado, vamos utilizar o SGBD SQLite3. Nossa interface de 
 
 | Episódio | Tema | Data | Vídeo |
 | ------- | ---- | ----| --- |
-| 01 | Introdução, SELECT, WHERE | 17/11/2020 |  |
-| 02 | GROUP BY, ORDER BY, HAVING | 19/11/2020 |  |
+| 01 | Introdução, SELECT, WHERE | 17/11/2020 | [Twitch](https://www.twitch.tv/videos/809381040) - [YouTube](https://youtu.be/PXftBr56Tow)  |
+| 02 | GROUP BY, ORDER BY, HAVING | 19/11/2020 | [Twitch](https://www.twitch.tv/videos/809378558) |
 | 03 | CASE, ISNULL, COALESCE, DISTINCT, COUNT, AVG... | 24/11/2020 | |
 | 04 | JOIN's | 01/12/2020 |  |
 | 05 | SUBQUERIES | 03/12/2020 |  |

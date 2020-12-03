@@ -23,5 +23,3 @@ and strftime('%Y',t3.order_approved_at) = '2017'
 
 group by t2.product_category_name
 order by count(*) / cast( count(distinct t1.order_id) as float) desc
-
-

@@ -28,9 +28,9 @@ Para facilitar o aprendizado, vamos utilizar o SGBD SQLite3. Nossa interface de 
 | 02 | GROUP BY, ORDER BY, HAVING | 19/11/2020 | [Twitch](https://www.twitch.tv/videos/809378558) - [YouTube](https://youtu.be/BPwGCEsPxMI) |
 | 03 | CASE, ISNULL, COALESCE, DISTINCT, COUNT, AVG... | 24/11/2020 | [Twitch](https://www.twitch.tv/videos/815153960) - [YouTube](https://youtu.be/7Ikyb5-5gOQ) |
 | 04 | JOIN's | 01/12/2020 | [Twitch](https://www.twitch.tv/videos/825201589) - [YouTube](https://youtu.be/jJxC0i6OtQQ) |
-| 05 | SUBQUERIES | 03/12/2020 |  |
-| 06 | WINDOW FUNCTIONS | 08/12/2020 | |
-| 07 | CREATE TABLE, VIEWS | 10/12/2020 | |
+| 05 | SUBQUERIES | 03/12/2020 | [Twitch](https://www.twitch.tv/videos/831007516) |
+| 06 | WINDOW FUNCTIONS | 08/12/2020 | [Twitch](https://www.twitch.tv/videos/831009919) |
+| 07 | CREATE TABLE, VIEWS | 10/12/2020 | [Twitch](https://www.twitch.tv/videos/833440582) |
 | 08 | Dúvidas e outros tópicos | 15/12/2020 | |
 
 ### [Episódio 01](https://github.com/TeoCalvo/teoSQL-V2/blob/master/ep01/conceitos.md)

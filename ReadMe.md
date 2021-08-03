@@ -10,7 +10,7 @@ Deixamos claro desde o início que este material é totalmente gratuíto e não 
 
 ## Dados
 
-Vamos utilizar os dados da empresa Olist para realizar nossas consultas e aprendizado. Os dados são de uma empresa real, que trabalha no ramo de varejo com market places. Os dados podem ser obtidos [aqui](https://drive.google.com/file/d/1QnH5Zs4d5_cxdClbjVAo-GfEgQTBNhEI/view?usp=sharing).
+Vamos utilizar os dados da empresa Olist para realizar nossas consultas e aprendizado. Os dados são de uma empresa real, que trabalha no ramo de varejo com market places. Os dados podem ser obtidos [aqui](https://drive.google.com/file/d/1xA2mu1Xg5n-rtQfSMsT_hErGnARznoe6/view?usp=sharing).
 
 Ainda, tem-se o seguinte esquema dos relacionamentos entre as tabelas destes banco de dados
 
